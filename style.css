@@ -1,11 +1,26 @@
 *{
     background: #f0f0f0;
     margin: 0;
+    font-family: "Open Sans"; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 800; line-height: 20px;
+}
+
+a{
+    font-style: none;
+    color: #ffffff;
+    background: none;
+    text-decoration: none;
 }
 
 html{
     margin-top: 40px;
 }
+
+h1 { font-family: "Open Sans"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
+h3 { font-family: "Open Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
+p { font-family: "Open Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } 
+blockquote { font-family: "Open Sans"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
+pre { font-family: "Open Sans"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+
 
 .g-ytsubscribe{
     margin: auto;
@@ -16,6 +31,23 @@ html{
     width: fit-content;
     align-content: center;
     align-items: center;
+}
+
+.watch_on_yt{
+    width: auto;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #ff0000;
+    color: #ffffff;
+    line-height: 40px;
+    text-align: center;
+}
+
+.watch_on_yt a{
+    text-align: center;
+    line-height: 40px;
+    display: block;
+ 
 }
 
 #tn_touch {
