@@ -23,7 +23,8 @@ pre { font-family: "Open Sans"; font-size: 13px; font-style: normal; font-varian
 
 
 .g-ytsubscribe{
-    margin: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
 }
 
 #div_download{
