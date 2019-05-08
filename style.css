@@ -29,13 +29,13 @@ pre { font-family: "Open Sans"; font-size: 13px; font-style: normal; font-varian
 
 #div_download{
     margin: auto;
-    width: 300px;
+    width: 600px;
     align-content: center;
     align-items: center;
 }
 
 .div_song{
-    height: 175px;
+    height: 350px;
 }
 
 .div_song .div_audio{
@@ -64,14 +64,14 @@ pre { font-family: "Open Sans"; font-size: 13px; font-style: normal; font-varian
     width: 100%;
     height: 100%;
     object-fit: contain;
-    background-image: url("Touch_Thumpnail.png");
+    background-image: url("Touch_Thumpnail_web.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
     #div_download{
         margin: auto;
         width: auto;
@@ -79,6 +79,6 @@ pre { font-family: "Open Sans"; font-size: 13px; font-style: normal; font-varian
         align-items: center;
     }
     .div_song{
-        height: 300px;
+        height: 325px;
     }
 }
