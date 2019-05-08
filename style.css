@@ -3,6 +3,14 @@
     margin: 0;
 }
 
+html{
+    margin-top: 40px;
+}
+
+.g-ytsubscribe{
+    margin: auto;
+}
+
 #div_download{
     margin: auto;
     width: fit-content;
