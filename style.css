@@ -1,0 +1,21 @@
+*{
+    background: #f0f0f0;
+    margin: 0;
+}
+
+#div_download{
+    margin: auto;
+    width: fit-content;
+    align-content: center;
+    align-items: center;
+}
+
+#tn_touch {
+    width: 300px;
+    height: 175px;
+    object-fit: contain;
+    background-image: url("Touch_Thumpnail.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
